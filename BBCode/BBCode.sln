@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BBCode", "BBCode\BBCode.csproj", "{6A42F644-5514-4DF5-9117-F4D8C6069215}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6A42F644-5514-4DF5-9117-F4D8C6069215}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6A42F644-5514-4DF5-9117-F4D8C6069215}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6A42F644-5514-4DF5-9117-F4D8C6069215}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6A42F644-5514-4DF5-9117-F4D8C6069215}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,15 @@
+OPEN=2
+Name=9
+Value=10
+SEA_WS=1
+SLASH=6
+EQUALS=7
+SLASH_CLOSE=5
+S=8
+TEXT=3
+CLOSE=4
+'='=7
+'/'=6
+'['=2
+'/]'=5
+']'=4
