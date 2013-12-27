@@ -10,7 +10,7 @@ Configuring and adding new BBCode rules is simple and easy.
 Examples
 --------
 
-```
+```csharp
 var bbc = new BBC();
 
 bbc["[code]{text}[/code]"] =
@@ -33,6 +33,6 @@ Console.WriteLine(bbc.Transform("[date/] [b]this is bold[/b] and [code]this is [
 
 Or for the default BBCode->HTML support, just do:
 
-```
+```csharp
 Console.WriteLine(BBCode.Basic().Transform("[b]Awesome[/b]"));
 ```
